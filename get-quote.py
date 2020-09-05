@@ -7,7 +7,7 @@ def primary():
    print(quotes[0])
 
 if __name__== "__main__":
-  primary()
+   primary()
 
 
 #Responsive is better than fast
